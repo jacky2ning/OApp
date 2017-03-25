@@ -24,7 +24,7 @@ import org.apache.cordova.*;
 
 public class MainActivity extends CordovaActivity
 {
-    public static final String URL = "http://192.168.10.45:8080/www/index.html";
+    public static final String URL = "http://localhost:8080/www/index.html";
 
     @Override
     public void onCreate(Bundle savedInstanceState)
